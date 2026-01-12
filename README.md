@@ -183,4 +183,6 @@ Content that explicitly declares its role and structure is far more likely to be
 
 ## License
 
-MIT License (or as preferred)
+## Author & Perspective
+AEO-oriented content structure analysis by T/MORIO, a certified Small and Medium Enterprise Management Consultant (Japan), focusing on HERO vs HELP design and AI-era reference stability.
+
